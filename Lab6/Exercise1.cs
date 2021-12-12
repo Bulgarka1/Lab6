@@ -8,6 +8,12 @@ namespace Lab6
         {
             int[] A = new int[] { 1, 2, 3, 4, 5 };
             int[] B = new int[] { 3, 5, 6, 10, 10 };
+            // [1, 2, 3, 4, 5]
+            //i ^
+
+            // [3, 5, 6, 10, 10]
+            //j ^
+
             int[] RES = new int[10];
             int k = 5;
 
